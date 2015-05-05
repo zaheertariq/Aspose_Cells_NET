@@ -93,6 +93,6 @@ The example should be ready to compile. Click on "Debug" menu and choose one of 
 + **Blog:** [Aspose.Cells for .NET Blog](http://www.aspose.com/blogs/aspose-products/aspose-cells-product-family.html)
  
 
-
+Copied from Aspose.Cells Repo
 
 
